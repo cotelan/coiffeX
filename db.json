@@ -13,5 +13,10 @@
   },
   "api": {
     "key": "AIzaSyBTa4ohs6UJ6w2k0sHkmEO2AUEKEw-Y0AY"
+  },
+  "tabViewData": {
+    "key0": "Accueil",
+    "key1": "Lists",
+    "key2": "Compte"
   }
 }
